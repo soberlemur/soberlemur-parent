@@ -93,7 +93,7 @@
         <injector.version>5.0.0</injector.version>
         <hamcrest.version>3.0</hamcrest.version>
         <bouncycastle.version>1.82</bouncycastle.version>
-        <assertj.version>3.27.4</assertj.version>
+        <assertj.version>3.27.6</assertj.version>
         <awaitility.version>4.3.0</awaitility.version>
     </properties>
 
