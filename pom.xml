@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.soberlemur</groupId>
     <artifactId>soberlemur-parent</artifactId>
-    <version>1.0.9-SNAPSHOT</version>
+    <version>1.0.9</version>
     <packaging>pom</packaging>
     <name>Sober Lemur parent pom</name>
     <description>
@@ -35,7 +35,7 @@
         <connection>scm:git:git@github.com:soberlemur/soberlemur-parent.git</connection>
         <developerConnection>scm:git:git@github.com:soberlemur/soberlemur-parent.git</developerConnection>
         <url>scm:git:git@github.com:soberlemur/soberlemur-parent.git</url>
-        <tag>HEAD</tag>
+        <tag>soberlemur-parent-1.0.9</tag>
     </scm>
 
     <developers>
