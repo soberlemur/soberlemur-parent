@@ -85,7 +85,7 @@
         <commons.io.version>2.20.0</commons.io.version>
         <archunit.version>1.4.1</archunit.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <commons.lang.version>3.19.0</commons.lang.version>
+        <commons.lang.version>3.20.0</commons.lang.version>
         <sejda.commons.version>3.0.1</sejda.commons.version>
         <mockito.version>5.20.0</mockito.version>
         <tinylog.version>2.7.0</tinylog.version>
