@@ -80,12 +80,12 @@
     </profiles>
 
     <properties>
-        <jackson.version>2.20.0</jackson.version>
-        <junit.version>5.13.4</junit.version>
-        <commons.io.version>2.20.0</commons.io.version>
+        <jackson.version>2.20.1</jackson.version>
+        <junit.version>5.14.1</junit.version>
+        <commons.io.version>2.21.0</commons.io.version>
         <archunit.version>1.4.1</archunit.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <commons.lang.version>3.19.0</commons.lang.version>
+        <commons.lang.version>3.20.0</commons.lang.version>
         <sejda.commons.version>3.0.1</sejda.commons.version>
         <mockito.version>5.20.0</mockito.version>
         <tinylog.version>2.7.0</tinylog.version>
@@ -213,7 +213,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-jar-plugin</artifactId>
-                    <version>3.4.2</version>
+                    <version>3.5.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
@@ -258,7 +258,7 @@
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
                     <artifactId>maven-release-plugin</artifactId>
-                    <version>3.1.1</version>
+                    <version>3.2.0</version>
                 </plugin>
                 <plugin>
                     <groupId>org.apache.maven.plugins</groupId>
