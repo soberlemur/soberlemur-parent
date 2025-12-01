@@ -92,7 +92,7 @@
         <eventstudio.version>4.0.1</eventstudio.version>
         <injector.version>5.0.0</injector.version>
         <hamcrest.version>3.0</hamcrest.version>
-        <bouncycastle.version>1.82</bouncycastle.version>
+        <bouncycastle.version>1.83</bouncycastle.version>
         <assertj.version>3.27.6</assertj.version>
         <awaitility.version>4.3.0</awaitility.version>
         <jsonassert.version>1.5.3</jsonassert.version>
