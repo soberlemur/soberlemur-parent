@@ -81,6 +81,7 @@
 
     <properties>
         <jackson.version>2.20.1</jackson.version>
+        <jackson3.version>3.0.3</jackson3.version>
         <junit.version>5.14.1</junit.version>
         <commons.io.version>2.21.0</commons.io.version>
         <archunit.version>1.4.1</archunit.version>
@@ -105,6 +106,12 @@
                 <artifactId>jackson-bom</artifactId>
                 <version>${jackson.version}</version>
                 <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>tools.jackson</groupId>
+                <artifactId>jackson-bom</artifactId>
+                <version>${jackson3.version}</version>
                 <type>pom</type>
             </dependency>
             <dependency>
