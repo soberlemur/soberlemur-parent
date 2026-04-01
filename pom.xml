@@ -80,15 +80,15 @@
     </profiles>
 
     <properties>
-        <jackson.version>2.21.1</jackson.version>
-        <jackson3.version>3.1.0</jackson3.version>
+        <jackson.version>2.21.2</jackson.version>
+        <jackson3.version>3.1.1</jackson3.version>
         <junit.version>5.14.3</junit.version>
         <commons.io.version>2.21.0</commons.io.version>
         <archunit.version>1.4.1</archunit.version>
         <slf4j.version>2.0.17</slf4j.version>
         <commons.lang.version>3.20.0</commons.lang.version>
         <sejda.commons.version>3.0.1</sejda.commons.version>
-        <mockito.version>5.22.0</mockito.version>
+        <mockito.version>5.23.0</mockito.version>
         <tinylog.version>2.7.0</tinylog.version>
         <eventstudio.version>5.0.0</eventstudio.version>
         <injector.version>5.0.0</injector.version>
