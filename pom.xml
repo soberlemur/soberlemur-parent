@@ -81,7 +81,7 @@
 
     <properties>
         <jackson.version>2.22.0</jackson.version>
-        <jackson3.version>3.1.4</jackson3.version>
+        <jackson3.version>3.2.1</jackson3.version>
         <junit.version>5.14.4</junit.version>
         <commons.io.version>2.22.0</commons.io.version>
         <archunit.version>1.4.2</archunit.version>
