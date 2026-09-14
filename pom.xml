@@ -89,7 +89,7 @@
         <commons.lang.version>3.20.0</commons.lang.version>
         <sejda.commons.version>3.0.1</sejda.commons.version>
         <mockito.version>5.23.0</mockito.version>
-        <tinylog.version>2.7.0</tinylog.version>
+        <tinylog.version>2.8.0</tinylog.version>
         <eventstudio.version>5.0.1</eventstudio.version>
         <injector.version>5.0.0</injector.version>
         <hamcrest.version>3.0</hamcrest.version>
