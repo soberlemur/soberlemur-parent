@@ -85,7 +85,7 @@
         <junit.version>5.14.4</junit.version>
         <commons.io.version>2.22.0</commons.io.version>
         <archunit.version>1.5.1</archunit.version>
-        <slf4j.version>2.0.19</slf4j.version>
+        <slf4j.version>2.0.20</slf4j.version>
         <commons.lang.version>3.20.0</commons.lang.version>
         <sejda.commons.version>3.0.1</sejda.commons.version>
         <mockito.version>5.24.0</mockito.version>
